@@ -1,0 +1,83 @@
+/* Note to students:
+
+Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!
+*/
+
+html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  height: 100%;
+  background: #80a6dc;
+  font-family: ababil script;
+}
+
+a {
+  color: ;
+}
+
+header {
+  padding: 10px;
+  background: #888;
+  color: #80a6dc;
+  text-shadow: 1px 1px 1px #000;
+  text-align: center;
+}
+
+header h1 a {
+  color: #E8870C;
+}
+
+nav {
+  width: 400px;
+  min-height: 900px;
+  float: right;
+  background-color: #80a6dc;
+}
+
+button {
+  width: 200px;
+  padding: 5px;
+  border-radius: 15px;
+  font-size: 12px;
+  font-weight: bold;
+  color: #000;
+  background-color: #E8870C;
+  float: right;
+}
+
+img{
+  width: 800px;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav ul li {
+  margin-bottom: 10px;
+}
+
+nav ul li a {
+  text-shadow: 2px 2px 2px #000;
+  color: #ff0000;
+}
+
+section {
+  width: 500px;
+  float: left;
+  padding: 5px;
+}
+
+
+footer {
+  clear: right;
+  padding: 20px;
+  min-height: 30px;
+  background: #888;
+  text-align: center;
+}
