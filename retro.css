@@ -1,3 +1,10 @@
+/* Note to students:
+
+Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!
+*/
+
 html {
   height: 100%;
 }
@@ -5,7 +12,7 @@ html {
 body {
   margin: 0;
   height: 100%;
-  background: #D3B4E5;
+  background: #C7C7C7;
   font-family: ababil script;
 }
 
@@ -15,7 +22,7 @@ a {
 
 header {
   padding: 10px;
-  background: #D3B4E5;
+  background: #C7C7C7;
   color: #D3B4E5;
   text-shadow: 1px 1px 1px #000;
   text-align: center;
@@ -31,7 +38,7 @@ nav {
   width: 15%;
   min-height: 900px;
   display: inline-block;
-  background-color: #D3B4E5;
+  background-color: #C7C7C7;
 }
 
 button {
@@ -78,6 +85,6 @@ footer {
   clear: right;
   padding: 20px;
   min-height: 30px;
-  background: #D3B4E5;
+  background: #C7C7C7;
   text-align: center;
 }

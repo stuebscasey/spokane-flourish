@@ -1,0 +1,93 @@
+/* Note to students:
+
+Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!
+*/
+
+html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  width: 100%;
+  background: #D3B4E5;
+  font-family: times;
+}
+
+a {
+  color: ;
+}
+
+header {
+  background: #D3B4E5;
+  text-shadow: 2px 2px 2px #000;
+  text-align: center;
+  font-size: 50px;
+}
+
+header h1 a {
+  color: #80a6dc;
+  text-decoration: none;
+}
+
+nav {
+  width: 100%;
+  background-color: #80a6dc;
+}
+
+button {
+  width: 200px;
+  padding: 5px;
+  border-radius: 15px;
+  font-size: 12px;
+  font-weight: bold;
+  color: #000;
+  background-color: #E8870C;
+  float: right;
+}
+
+img{
+  width: 60%;
+  opacity: .8;
+  padding-top: 10px;
+  padding-left: 20%;
+
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+nav ul li {
+  display: inline-block;
+  margin: 20px;
+  font-size: 18px;
+}
+
+section {
+  width: 90%;
+  text-align: center;
+  align-content: center;
+}
+
+This currently is not active, I was testing this out
+header h2 p {
+  color: #80a6dc;
+}
+
+
+footer {
+  clear: right;
+  padding: 20px;
+  min-height: 30px;
+  background: #D3B4E5;
+  text-align: center;
+}
